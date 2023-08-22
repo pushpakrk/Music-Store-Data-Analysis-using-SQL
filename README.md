@@ -18,4 +18,10 @@ Festival in the city we made the most money. Write a query that returns one city
 11. Writeaquerythatdeterminesthecustomerthathasspentthemostonmusicforeach country. Write a query that returns the country along with the top customer and how much they spent. For countries where the top amount spent is shared, provide all customers who spent this amount
 
 
+## Database and Tools used
+- Postgre SQL
+- PgAdmin4
+  
+## Schema- Music Store Database
+![MusicDatabaseSchema](https://github.com/pushpakrk/Music-Store-Data-Analysis-using-SQL/assets/93335175/610dfc5f-19ba-4205-a3ec-b1b407c45723)
 
