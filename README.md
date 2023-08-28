@@ -22,6 +22,6 @@ Festival in the city we made the most money. Write a query that returns one city
 - Postgre SQL
 - PgAdmin4
   
-## Schema Diagram - Music Store Database
+## Entity Relationship Diagram - Music Store Database
 ![MusicDatabaseSchema](https://github.com/pushpakrk/Music-Store-Data-Analysis-using-SQL/assets/93335175/610dfc5f-19ba-4205-a3ec-b1b407c45723)
 
